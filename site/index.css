@@ -1,0 +1,16 @@
+article
+{
+	color: brown;
+	font-family: sans-serif;
+	text-align: center;
+	margin-left: 200px;
+	margin-right: 200px;
+}
+ol
+{
+	color: green;
+}
+body
+{
+	background-image:url("contours.png") ;
+}
