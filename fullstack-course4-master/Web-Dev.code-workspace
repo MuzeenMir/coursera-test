@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../site"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "fullstack-course4-master"
+	}
+}
